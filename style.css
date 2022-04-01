@@ -1,0 +1,78 @@
+body {
+    background-color: aqua;
+    color: blue;
+    padding: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: antiquewhite;
+    color:blue
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    padding: 5px;
+    margin: 0px;
+}
+
+p.zero {
+    background-color: aliceblue;
+}
+
+p.one {
+    background-color: antiquewhite
+}
+
+p.two {
+    background-color: aqua
+}
+
+p.three {
+    background-color: aquamarine
+}
+
+p.four {
+    background-color: azure;
+}
+
+p.five {
+    background-color: beige;
+}
+
+p.six {
+    background-color: bisque
+}
+
+p.seven {
+    background-color: blanchedalmond;
+}
+
+p.eight {
+    background-color:yellow
+}
+
+p.nine {
+    background-color: blueviolet;
+}
+
+p.ten {
+    background-color: brown;
+}
+
+p.eleven {
+    background-color: burlywood;
+}
+
+p.twelve {
+    background-color: cadetblue;
+}
+
+p.thirteen {
+    background-color: cadetblue;
+}
+
+p.fourteen {
+    background-color: chartreuse;
+}
